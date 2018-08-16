@@ -1,0 +1,21 @@
+{
+  "name": "jsql",
+  "version": "1.0.0",
+  "description": "javascript library for SQL like functions syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "jsql",
+    "SQL",
+    "LINQ"
+  ],
+  "author": "amir zahavi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
